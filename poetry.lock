@@ -59,13 +59,13 @@ dev = ["coverage", "flake8 (>=4.0.1,<4.1.0)", "flake8-logging-format", "mypy", "
 
 [[package]]
 name = "azure-identity"
-version = "1.16.0"
+version = "1.16.1"
 description = "Microsoft Azure Identity Library for Python"
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "azure-identity-1.16.0.tar.gz", hash = "sha256:6ff1d667cdcd81da1ceab42f80a0be63ca846629f518a922f7317a7e3c844e1b"},
-    {file = "azure_identity-1.16.0-py3-none-any.whl", hash = "sha256:722fdb60b8fdd55fa44dc378b8072f4b419b56a5e54c0de391f644949f3a826f"},
+    {file = "azure-identity-1.16.1.tar.gz", hash = "sha256:6d93f04468f240d59246d8afde3091494a5040d4f141cad0f49fc0c399d0d91e"},
+    {file = "azure_identity-1.16.1-py3-none-any.whl", hash = "sha256:8fb07c25642cd4ac422559a8b50d3e77f73dcc2bbfaba419d06d6c9d7cff6726"},
 ]
 
 [package.dependencies]
@@ -813,4 +813,4 @@ cffi = ["cffi (>=1.11)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.8"
-content-hash = "71569d42a8dbe8563baf0e02a20c48e852bb55506dad4e3f1d29b1184b991da1"
+content-hash = "f7971daed3c15ede99e54619657ef2995adb29320cd1b8f899dbd323acfd0a02"
