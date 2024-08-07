@@ -10,7 +10,7 @@ readme = "README.md"
 python = "^3.8"
 azure-functions = "^1.19.0"
 azure-identity = "^1.16.0"
-azure-storage-blob = "^12.20.0"
+azure-storage-blob = "^12.22.0"
 pydpkg = "^1.9.3"
 
 [tool.poetry.group.dev.dependencies]
